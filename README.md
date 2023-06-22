@@ -1,0 +1,2 @@
+# docs
+The Lagingo documentation.
